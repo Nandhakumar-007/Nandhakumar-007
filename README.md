@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nandhakumar%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20React.js%20%7C%20JavaScript%20(ES6%2B)&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Frontend+Developer+%7C+React.js;Building+Responsive%2C+Component-Based+UIs;REST+API+Integration+%26+Performance+Tuning;Chennai%2C+India" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Frontend+Developer+%7C+React.js;Building+Responsive%2C+Component-Based+UIs;REST+API+Integration+%26+Performance+Tuning;Chennai%2C+India" alt="Typing SVG" />
 
 </div>
 
@@ -81,7 +81,7 @@ console.log(nandhakumar.motto());
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=Nandhakumar-007&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+<img src="https://streak-stats.demolab.com/?user=Nandhakumar-007&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
 <div align="center">
